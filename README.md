@@ -56,3 +56,6 @@ This project demonstrates the implementation of a complete DevOps lifecycle, tra
 | **AWS EC2** | Cloud Infrastructure       |
 
 ---
+Documentaion
+
+https://docs.google.com/document/d/1GU1NGCUZn4Ftrs4P6RmmPNNiJSiEeK9Dwm9vi33AkxI/edit?tab=t.0#heading=h.d0hgid16hkdz

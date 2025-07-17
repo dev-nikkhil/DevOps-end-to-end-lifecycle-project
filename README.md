@@ -7,8 +7,7 @@ This project demonstrates the implementation of a complete DevOps lifecycle, tra
 
 ## 🏗️ Architecture Diagram
 
-<img width="766" height="636" alt="image" src="https://github.com/user-attachments/assets/544679ca-9be3-48dc-87b8-963d9a17a206" />
-<img width="728" height="776" alt="image" src="https://github.com/user-attachments/assets/8df18b71-7b25-4ddf-a2ac-2520d62ab52f" />
+![Project-Architecture (1)](https://github.com/user-attachments/assets/99d46034-d796-4516-a1ce-c05198ed3239)
 
 ---
 
